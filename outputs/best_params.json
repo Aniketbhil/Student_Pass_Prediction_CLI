@@ -1,0 +1,14 @@
+{
+    "model": "Random Forest",
+    "technique": "GridSearch",
+    "best_cv_score": 0.8925000000000001,
+    "test_accuracy": 0.885,
+    "test_f1": 0.9138576779026217,
+    "best_params": {
+        "max_depth": 15,
+        "max_features": "sqrt",
+        "min_samples_leaf": 2,
+        "min_samples_split": 2,
+        "n_estimators": 200
+    }
+}
